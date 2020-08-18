@@ -332,8 +332,14 @@ section {
   color: var(--primary-color);
   flex: 1;
 }
-.trainer img {
+
+.trainer-1 {
+  background-image: url("./assets/images/trainer-1.jpg");
+}
+
+.trainer-img {
   width: 100%;
+  min-height: 300px;
 }
 
 .trainer-bio {
